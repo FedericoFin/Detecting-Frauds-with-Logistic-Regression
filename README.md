@@ -3,8 +3,6 @@
 
 ### Fitting a Logistic Regression Model to a dataset with the aim of predicting wether a transaction is fraud or not.
 
-This file is inspired by a few Udacity Data Analyst Nano Degree classes.
-
 The Logistic Regerssion is a methodology used to predict the value of the dichotomic dependent variable Y, 
 based on a set of explanantory variables, which could be either quantitative and qualitative.
 
